@@ -1,7 +1,14 @@
-//Basic adafruitIO example
-//post a random value every second
-
-
+/*
+---------------------------LOST------------------------------------------
+PROJECT TITLE: LOST
+Created by: Mahsa Karimi
+Date of completion:25-10-2016
+Description: LOST IS A SMART SENSORY DEVICE
+THAT MONITORS HEAT LOSS CAUSED BY THE OPENING 
+OF THE FRONT DOOR TO THE MAIN ENTRANCE OF 
+THE GRADUATE BUILDING AT OCAD UNIVERSITY.
+----------------------------------------------------------------------------------
+*/
 
 // edit the config.h tab and enter your Adafruit IO credentials
 #include <Wire.h>
