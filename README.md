@@ -13,10 +13,6 @@ THE GRADUATE BUILDING AT OCAD UNIVERSITY.
 
 
 # LOST
-//Basic adafruitIO example
-//post a random value every second
-
-
 
 // edit the config.h tab and enter your Adafruit IO credentials
 #include <Wire.h>
@@ -25,8 +21,6 @@ THE GRADUATE BUILDING AT OCAD UNIVERSITY.
 
 Adafruit_MCP9808 tempsensor = Adafruit_MCP9808();
 
-
-int randVal;
 
 
 int sendRate = 1000;
